@@ -1,6 +1,3 @@
-# ClientServer
-ClientServer coursework
-
 # Smart Campus API
 
 **Student:** Ahmet Miah (W2071541)  
